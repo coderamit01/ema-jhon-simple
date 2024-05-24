@@ -1,0 +1,10 @@
+.singleProduct {
+  display: grid;
+  grid-template-columns: 8fr 4fr;
+  grid-gap: 15px;
+}
+.singleProduct .product {
+  display: grid;
+  grid-template-columns: 4fr 8fr;
+  grid-gap: 10px;
+}
